@@ -44,7 +44,23 @@
 
 ## 📸 Screenshots
 
+**Home** —
 <img width="1894" height="919" alt="Screenshot 2025-08-05 205637" src="https://github.com/user-attachments/assets/a4c181b2-34b2-42f2-9801-72623a89a710" />
+
+**Tracker** —
+<img width="1896" height="897" alt="Screenshot 2025-08-05 205729" src="https://github.com/user-attachments/assets/5e6a9021-6bbd-4b46-9836-f2f39a3ea9e8" />
+
+**Trainer** —
+<img width="1894" height="901" alt="Screenshot 2025-08-05 205818" src="https://github.com/user-attachments/assets/d11735d9-3814-45ae-af44-118604fa7b4a" />
+
+**Diet** —
+<img width="1902" height="927" alt="Screenshot 2025-08-05 210105" src="https://github.com/user-attachments/assets/1d78d619-4cae-41f9-90d2-7772a71fc781" />
+
+**Workout** —
+<img width="1896" height="913" alt="Screenshot 2025-08-05 210140" src="https://github.com/user-attachments/assets/dac2943a-6e38-4d1e-aab8-9b6a797feb55" />
+
+**Signup** —
+<img width="1888" height="912" alt="Screenshot 2025-08-05 210158" src="https://github.com/user-attachments/assets/7132d562-38c3-4092-a36f-475326bf66b6" />
 
 
 ---
@@ -60,3 +76,15 @@
 1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/flexfitness.git
+
+2. **Navigate into the project folder**
+```bash
+cd flexfitness
+
+3. **Install dependencies**
+```bash
+npm install
+
+3. **Start the development server**
+```bash
+npm run dev
