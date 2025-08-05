@@ -73,18 +73,13 @@
 
 ### Installation
 
-1. **Clone the repository**
+1. Clone the repository  
+2. Navigate into the project folder  
+3. Install dependencies  
+4. Start the development server
+
 ```bash
 git clone https://github.com/your-username/flexfitness.git
-
-2. **Navigate into the project folder**
-```bash
 cd flexfitness
-
-3. **Install dependencies**
-```bash
 npm install
-
-3. **Start the development server**
-```bash
 npm run dev
