@@ -139,6 +139,8 @@ const DietPlanDashboard = () => {
     }
   ];
 
+
+  
   const benefits = [
     {
       title: "Providing Essential Nutrients",
