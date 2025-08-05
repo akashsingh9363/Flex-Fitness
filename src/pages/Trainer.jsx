@@ -68,7 +68,7 @@ const GymTrainerPage = () => {
     },
     {
       id: 6,
-      name: "Matt Roberts",
+      name: "Shibu Choudhary",
       specialty: "Pilates & Core Strength",
       rating: 4.9,
       reviews: 78,
